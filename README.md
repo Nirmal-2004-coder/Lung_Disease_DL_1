@@ -12,7 +12,7 @@ framework to solve the above problem also we have have created our custom CNN ne
 ![xray_arch](https://user-images.githubusercontent.com/71321529/216753362-aeb34400-d21d-4b21-b2ce-63b86a47b594.jpg)
 
 ## Dataset used
-The dataset was shared by Apollo diagnostic center for research purpose. So we hvae created a POC with the given data.
+The dataset was shared by Apollo diagnostic center for research purpose. So we hvae created a POC with the given data.Chest X-Ray ( covid 19 and Pneumonia from Kaggle ) is the dataset we r  going to use .
 Data zip ~ 2GB file from : https://drive.google.com/file/d/1oK9jq4CzS2EtrL3PAA5fuRi5EbmGVoUt/view
 
 ## Tech Stack Used

@@ -13,6 +13,7 @@ framework to solve the above problem also we have have created our custom CNN ne
 
 ## Dataset used
 The dataset was shared by Apollo diagnostic center for research purpose. So we hvae created a POC with the given data.
+Data zip ~ 2GB file from : https://drive.google.com/file/d/1oK9jq4CzS2EtrL3PAA5fuRi5EbmGVoUt/view
 
 ## Tech Stack Used
 1. Python 
